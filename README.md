@@ -18,7 +18,7 @@
 - 🚀 Highly interested in integrating **AI** (Azure OpenAI, Speech-to-Text) and **Real-time** features (SignalR) into modern applications.
 - 🔭 Currently developing **Sử Mạch (S-K-Tracking)** - a Neo4j-powered knowledge graph mapping Vietnamese historical entities and events.
 - 💼 Previously built **FLearn** - an AI-powered multilingual learning platform.
-- ⚡ Fun fact: A devoted cat dad 🐈, who spends free time solving Resident Evil puzzles or exploring Night City in Cyberpunk 2077 🎮.
+
 
 ---
 
