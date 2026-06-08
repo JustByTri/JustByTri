@@ -13,7 +13,7 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-# 🌸 Nguyễn Hoàng Trí · `JustByTri`
+# 🌸 Nguyễn Hoàng Tri· `JustByTri`
 
 **`Java Backend Developer @ FPT Software JST`**
 
@@ -42,7 +42,7 @@ public class Tri extends Developer {
     String uni      = "FPT University HCMC · Software Engineering";
 
     String[] currently_learning = { "Spring Boot", "Hibernate ORM", "PostgreSQL", "Docker" };
-    String[] hobbies  = { "VALORANT 🎯", "Cyberpunk 2077 🌆", "YouTube Music 🎵", "LeetCode 🧠" };
+    String[] hobbies  = {  "LeetCode 🧠" };
     String   fun_fact = "Turning ☕ into /api/response since 2024";
 
     @Override
