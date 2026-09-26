@@ -12,13 +12,12 @@
 
 ---
 
-### 👨‍💻 About Me
-* 🎓 **Software Engineering Graduate** focused on building scalable system architectures.
-* 🌱 Currently deepening my expertise in the **Java & Spring Boot** ecosystem for enterprise environments.
-* 💡 Strong background and hands-on experience with **C# & .NET Core**.
-* 🚀 Highly interested in integrating **AI** (Azure OpenAI, Speech-to-Text) and **Real-time** features (SignalR) into modern applications.
-* 🔭 Currently developing **Sử Mạch (S-K-Tracking)** - a Neo4j-powered knowledge graph mapping Vietnamese historical entities and events.
-* 💼 Previously built **FLearn** - an AI-powered multilingual learning platform.
+###  About Me
+*  **Software Engineering Graduate** focused on building scalable system architectures.
+*  Currently deepening my expertise in the **Java & Spring Boot** ecosystem for enterprise environments.
+*  Strong background and hands-on experience with **C# & .NET Core**.
+=
+
 
 
 ---
